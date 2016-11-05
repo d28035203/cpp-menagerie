@@ -1,6 +1,6 @@
 # C++ Menagerie
 
-**Subject vibe:** Object-Oriented Programming with C++.
+**** Object-Oriented Programming with C++.
 
 Inheritance + virtual methods: `Animal` base, `Dog` / `Cat` derived, speak via base pointers.
 
