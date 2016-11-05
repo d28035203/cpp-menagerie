@@ -1,11 +1,16 @@
 # C++ Menagerie
 
-**** Object-Oriented Programming with C++.
+Object-oriented C++ demo: abstract `Animal` base, `Dog` / `Cat` / `Bird` derived types, virtual `speak()` via base pointers.
 
-Inheritance + virtual methods: `Animal` base, `Dog` / `Cat` derived, speak via base pointers.
+## Build
 
 ```bash
-g++ -std=c++11 main.cpp -o menagerie && ./menagerie
+make
+./menagerie
 ```
 
-MIT · practice project
+Requires a C++17 compiler.
+
+## License
+
+MIT
